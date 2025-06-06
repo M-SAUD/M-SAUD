@@ -3,7 +3,6 @@
 - 🚀 Currently expanding my skills in API Integration & Backend Technologies
 - 📚 Committed to continuous learning and clean code practices
 - ⚡ "Less talk, more code — building solutions that speak for themselves."
-
 <!---
 M-SAUD/M-SAUD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
